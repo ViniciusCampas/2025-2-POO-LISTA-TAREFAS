@@ -1,0 +1,15 @@
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/bin/Debug/net8.0/tarefas
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/bin/Debug/net8.0/tarefas.deps.json
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/bin/Debug/net8.0/tarefas.runtimeconfig.json
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/bin/Debug/net8.0/tarefas.dll
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/bin/Debug/net8.0/tarefas.pdb
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/obj/Debug/net8.0/tarefas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/obj/Debug/net8.0/tarefas.AssemblyInfoInputs.cache
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/obj/Debug/net8.0/tarefas.AssemblyInfo.cs
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/obj/Debug/net8.0/tarefas.csproj.CoreCompileInputs.cache
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/obj/Debug/net8.0/tarefas.sourcelink.json
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/obj/Debug/net8.0/tarefas.dll
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/obj/Debug/net8.0/refint/tarefas.dll
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/obj/Debug/net8.0/tarefas.pdb
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/obj/Debug/net8.0/tarefas.genruntimeconfig.cache
+/workspaces/2025-2-POO-LISTA-TAREFAS/tarefas/obj/Debug/net8.0/ref/tarefas.dll

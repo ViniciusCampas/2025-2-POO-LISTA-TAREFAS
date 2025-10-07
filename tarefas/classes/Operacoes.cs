@@ -13,10 +13,11 @@ public class Operacoes{
                 cmd.Parameters.AddWithValue("@descricao", Tarefa.Descricao); 
                 cmd.Parameters.AddWithValue("@",Tarefa.DataCriacao);                     
                 cmd.Parameters.AddWithValue("@",Tarefa.Status);                     
-                cmd.Parameters.AddWithValue("@",Tarefa.DataExecucao);                     
+                cmd.Parameters.AddWithValue("@",Tarefa.DataExecucao);   
+
+                return Convert.ToInt32(cmd.ExecuteScalar());                  
             }
         }
-        return 0;
     }
 
     public Tarefa Buscar (int id){
